@@ -1924,14 +1924,14 @@
 1924,ATOTONILCO 373 P15,L,L,L,L,V,E,L,L,V,L
 1925,ATOTONILCO 373 P15,L,L,L,L,V,V,L,E,L,L
 1926,ATOTONILCO 373 P15,L,L,L,L,L,V,L,V,V,L
-1927,"Atotonilco,sonora ",L,L,L,L,L,L,L,L,L,L
-1928,"Atotonilco,sonora ",L,L,L,L,L,L,L,L,V,L
-1929,"Atotonilco,sonora ",L,L,L,L,L,L,L,V,L,L
-1930,"Atotonilco,sonora ",L,L,L,L,L,L,L,V,V,L
-1931,"Atotonilco,sonora ",L,L,L,L,V,L,L,L,L,L
-1932,"Atotonilco,sonora ",L,L,L,L,V,L,L,L,V,L
-1933,"Atotonilco,sonora ",L,L,L,L,V,L,L,V,L,L
-1934,"Atotonilco,sonora ",L,L,L,L,V,L,L,V,V,L
+1927,Atotonilcosonora ,L,L,L,L,L,L,L,L,L,L
+1928,Atotonilcosonora ,L,L,L,L,L,L,L,L,V,L
+1929,Atotonilcosonora ,L,L,L,L,L,L,L,V,L,L
+1930,Atotonilcosonora ,L,L,L,L,L,L,L,V,V,L
+1931,Atotonilcosonora ,L,L,L,L,V,L,L,L,L,L
+1932,Atotonilcosonora ,L,L,L,L,V,L,L,L,V,L
+1933,Atotonilcosonora ,L,L,L,L,V,L,L,V,L,L
+1934,Atotonilcosonora ,L,L,L,L,V,L,L,V,V,L
 1935,Aura ,L,L,L,L,L,E,L,L,E,L
 1936,Aura ,L,L,L,L,L,E,L,L,L,L
 1937,Aura ,L,L,L,L,L,L,L,L,E,L
@@ -18006,11 +18006,11 @@
 18006,Samuel fregozo,E,V,V,L,E,V,E,V,V,E
 18007,Samuel fregozo,L,L,E,V,E,E,E,V,L,L
 18008,Samuel fregozo,V,E,L,V,V,L,V,E,L,E
-18009,"San juditas 7,7",L,V,V,V,E,L,L,L,L,E
-18010,"San juditas 7,7",L,E,V,V,V,L,L,V,E,E
-18011,"San juditas 7,7",L,L,V,L,V,L,L,L,V,L
-18012,"San juditas 7,7",L,E,V,L,V,E,L,L,V,E
-18013,"San juditas 7,7",L,V,L,V,L,L,L,L,L,L
+18009,San juditas 77,L,V,V,V,E,L,L,L,L,E
+18010,San juditas 77,L,E,V,V,V,L,L,V,E,E
+18011,San juditas 77,L,L,V,L,V,L,L,L,V,L
+18012,San juditas 77,L,E,V,L,V,E,L,L,V,E
+18013,San juditas 77,L,V,L,V,L,L,L,L,L,L
 18014,Sandy bell,L,L,V,E,V,L,L,L,E,L
 18015,Sandy bell,L,E,V,V,V,E,L,L,L,L
 18016,Sandy bell,E,E,E,V,V,L,L,E,E,L
